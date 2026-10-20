@@ -1,0 +1,14 @@
+body{
+  background-color: antiquewhite;
+}
+table{
+  width: 700px ;
+  height: 600px;
+
+}
+.white{
+  background-color: wheat;
+}
+.blown{
+  background-color: rgb(119, 86, 86);
+}
